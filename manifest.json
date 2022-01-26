@@ -1,0 +1,14 @@
+{
+    "name": "SOLRareCheck",
+    "description": "Check rarity of your potential SOL NFT",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "host_permissions": ["https://moonrank.app/", "https://magiceden.io/"],
+    "permissions": [
+        "tabs",
+        "activeTab"
+    ]
+}
