@@ -1,6 +1,6 @@
 {
-    "name": "SOLRareCheck",
-    "description": "Check rarity of your potential SOL NFT",
+    "name": "NFTRareCheck",
+    "description": "Check rarity of your NFT, Magic Eden and Moonrank supported",
     "version": "1.0",
     "manifest_version": 3,
     "action": {
